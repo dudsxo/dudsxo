@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey there! I'm Maria Eduarda
 
-<!--
-**dudsxo/dudsxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--github stats-->
+<div align="center" style="display: inline">
+  <a href="https://github.com/dudsxo"></a>
+  <img height="170em" src= "https://github-readme-stats.vercel.app/api?username=dudsxo&show_icons=true&theme=jolly">
+  <img height="170em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=dudsxo&theme=jolly&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Imagem das linguagens-->
+<div align="center" style="display: inline_block"> <br>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+</div>
