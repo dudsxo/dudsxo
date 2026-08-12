@@ -8,7 +8,7 @@
 Hello, I'm Maria Eduarda and I'm 20 years old. Here I'll share my projects and my learning troughout experiences.  
 
 - 🖥️ **Technical Degree in IT** | Learned fundamentals of: HTML, CSS, C++, Java
-- 🎓 **Future Software Engineer** | Bachelor's in Software Engineering [UNINTER]  
+- 🎓 **Future Software Engineer** | Bachelor's in Computer Science [UNINTER]  
 
 <!--github stats-->
 <div align="center" style="display: inline">
